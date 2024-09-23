@@ -5,3 +5,6 @@ y todo lo que coloque aca
 van a ver que no aparece el punto blanco
 si no guardo aparece
 ..............
+punto 2
+,..................
+otra cosa
